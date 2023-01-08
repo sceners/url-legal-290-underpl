@@ -3,7 +3,7 @@ URLegal v2.9 by Underpl.
 
 https://defacto2.net/f/b32e223
 
-```
+```c
 	printf("        ŰŰ    ŰŰŰ            ŰŰŰŰ    ŰŰŰ\n");
 	printf("     ŰŰŰŰŰŰŰŰŰŰ ŰŰ        ŰŰŰŰŰŰŰŰŰŰŰŰŰŰŰŰŰ\n");
 	printf("    ŰŰŰ     Ű    ŰŰ    ŰŰŰŰŰ      ŰŰŰ    ŰŰŰ\n");
